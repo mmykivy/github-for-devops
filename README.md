@@ -1,1 +1,1 @@
-Created REPO only for testing perpose !!!
+Created REPO only for testing purpose !!!
