@@ -2,5 +2,9 @@ print("hii! this is a testing file")
 
 # YOU WANT TEST SOMTHING ?
 
-API_KEY = "your_api_key_here"
-SECRET_KEY = "your_secret_key_here"
+def add(a, b):
+    a = 0
+    b = 2
+    d=c
+
+    return a + b
